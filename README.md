@@ -1,5 +1,27 @@
 # 💫 About Me:
-i am a final year MCA student  has skills like C++, DSA, html, css and js etc. i have made projects like amazone clone ,fashion-ecommerce-ui and Ecowrap- Eco friendly Product Recommendation system
+👋 Hi, I’m Vishakha
+
+I’m a final-year MCA student with a strong interest in software development and problem-solving. I enjoy building practical projects and strengthening my core programming fundamentals.
+
+💻 Skills & Technologies
+
+Programming: C++, JavaScript
+
+Core CS: Data Structures & Algorithms (DSA)
+
+Web Development: HTML, CSS, JavaScript
+
+🚀 Projects
+
+Amazon Clone – A frontend clone replicating core UI and layout features of Amazon
+
+Fashion E-commerce UI – A responsive and modern user interface for an online fashion store
+
+EcoWrap – An eco-friendly product recommendation system aimed at promoting sustainable consumer choices
+
+📌 I’m continuously learning, improving my problem-solving skills, and exploring real-world applications of web technologies.
+
+✨ Open to internships, learning opportunities, and collaboration on interesting projects.
 
 
 ## 🌐 Socials:
